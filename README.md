@@ -1,3 +1,5 @@
 # Network Attached Storage (NAS)
 
-[User Requirement Specification](UserRequirementSpecification.md)
+__User Requirement Specification__ [URS](https://github.com/griemide/NAS/projects)
+
+__NAS evaluation Wiki__ [Wiki](https://github.com/griemide/NAS/wiki)
